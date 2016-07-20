@@ -32,3 +32,4 @@ PHPUnit 样例
 --------
 + [travis-ci https://travis-ci.org/huyanping/phpunit-sample](https://travis-ci.org/huyanping/phpunit-sample "phpunit-sample")
 + [circle-ci https://circleci.com/gh/huyanping/phpunit-sample](https://circleci.com/gh/huyanping/phpunit-sample "phpunit-sample")
++ [scrutinizer-ci https://scrutinizer-ci.com/g/huyanping/phpunit-sample/](https://scrutinizer-ci.com/g/huyanping/phpunit-sample/ "phpunit-sample")
