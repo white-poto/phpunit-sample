@@ -1,5 +1,9 @@
 PHPUnit 样例
 ==========
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/huyanping/phpunit-sample/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/huyanping/phpunit-sample/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/huyanping/phpunit-sample/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/huyanping/phpunit-sample/?branch=master)
+[![Travis-ci](https://travis-ci.org/huyanping/phpunit-sample.svg)](https://travis-ci.org/huyanping/phpunit-sample.svg)
+
 
 说明
 ---
