@@ -23,3 +23,8 @@ PHPUnit 样例
 -----------
 + 对src\Calculator类进行测试，测试用例需满足src\Calculator注释要求
 + 有能力的童鞋，可以尝试生成单元测试覆盖度报告以及代码质量报告
+
+持续集成测试
+------
++ [travis-ci https://travis-ci.org/huyanping/phpunit-sample](https://travis-ci.org/huyanping/phpunit-sample "phpunit-sample")
++ [circle-ci https://circleci.com/gh/huyanping/phpunit-sample](https://circleci.com/gh/huyanping/phpunit-sample "phpunit-sample")
