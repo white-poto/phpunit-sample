@@ -11,7 +11,7 @@ PHPUnit 样例
 + `tests\CalculatorTest`类所继承的`\PHPUnit_Framework_TestCase`类，为PHPUnit单元测试类，该类有两种方式注入（include）
  - 使用`composer require`方式，以package的形式导入
  - 执行`phpunit xxx`(执行时phpunit命令会自动注入该类）
-+ 如果你希望IDE可以对PHPUnit_Framework_TestCase类进行一些代码提示，可以将PHPUnit的源码下载到本地，
++ 如果你希望IDE可以对`PHPUnit_Framework_TestCase`类进行一些代码提示，可以将PHPUnit的源码下载到本地，
 使用IDE的include配置功能（`file -> setting -> languages & frameworks -> PHP -> include`），IDE就可以进行代码提示了
 + 单元测试类已经建好（`tests\CalculatorTest.php`），你只需要在这个类中填充相应的方法即可
 + [phpunit官方文档](https://phpunit.de/manual/current/zh_cn/index.html "PHPUnit")
