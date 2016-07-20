@@ -13,11 +13,11 @@ use Jenner\PHPUnit\Sample\Calculator;
 
 class CalculatorTest extends \PHPUnit_Framework_TestCase
 {
-
     /**
      * demo
      */
-    public function testAdd() {
+    public function testAdd()
+    {
         $calculator = new Calculator();
         $this->assertEquals(4, $calculator->add(2, 2));
     }

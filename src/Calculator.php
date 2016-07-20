@@ -78,11 +78,12 @@ class Calculator
      * @param $x
      * @return bool
      */
-    public function isDouble($x) {
-        if(is_string($x)) {
+    public function isDouble($x)
+    {
+        if (is_string($x)) {
             throw new \InvalidArgumentException("type error. need double param, string given.");
         }
-        if(is_double($x)) {
+        if (is_double($x)) {
             return true;
         }
         return false;
