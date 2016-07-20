@@ -13,7 +13,7 @@ PHPUnit 样例
 ```
 + 对`Calculator`类的所有方法编写单元测试
 ```shell
-vim tests/CalculatorTest.php
+> vim tests/CalculatorTest.php
 ```
 + 执行单元测试
 ```shell
