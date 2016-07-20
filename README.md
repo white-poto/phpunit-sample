@@ -18,20 +18,27 @@ PHPUnit 样例
 
 执行测试
 ----
-```shell
-> cd /path/to/phpunit-sample
-> phpunit
-```
+
 
 要求
 -----------
 + 对`src\Calculator`类进行测试，测试用例需满足`src\Calculator`注释要求
 + 有能力的童鞋，可以尝试生成单元测试覆盖度报告以及代码质量报告
 
-代码下载
---------
+操作流程
+----
++ 代码下载
 ```shell
 > git clone https://github.com/huyanping/phpunit-sample.git
+> cd phpunit-sample
+```
++ 对`Calculator`类的所有方法编写单元测试
+```shell
+vim tests/CalculatorTest.php
+```
++ 执行单元测试
+```shell
+> phpunit
 ```
 
 开源持续集成测试
