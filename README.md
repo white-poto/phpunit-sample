@@ -28,6 +28,11 @@ PHPUnit 样例
 + 对`src\Calculator`类进行测试，测试用例需满足`src\Calculator`注释要求
 + 有能力的童鞋，可以尝试生成单元测试覆盖度报告以及代码质量报告
 
+代码下载
+```shell
+> git clone https://github.com/huyanping/phpunit-sample.git
+```
+
 开源持续集成测试
 --------
 + [travis-ci https://travis-ci.org/huyanping/phpunit-sample](https://travis-ci.org/huyanping/phpunit-sample "phpunit-sample")
